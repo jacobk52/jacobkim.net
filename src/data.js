@@ -27,7 +27,7 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "Hi, I'm a 4th year (senior) Computer Science student at the University of Waterloo, expected to graduate in April 2022. I'm an incoming software development engineer intern at Amazon (AWS) on the AWS Step Functions team for the Fall 2021 term (Sept 2021 - Dec 2021). Previously, I've completed 5 software engineering internships, including my most recent internship at NVIDIA.",
+    "Hi, I'm a 4th year (senior) Computer Science student at the University of Waterloo, expected to graduate in April 2022. I'm an incoming Software Development Engineer Intern at Amazon (AWS) on the AWS Step Functions team for the Fall 2021 term (Sept 2021 - Dec 2021). Previously, I've completed 5 software engineering internships, including my most recent internship at NVIDIA.",
   aboutParaTwo:
     "I'm currently looking for 2022 new grad opportunities and/or Winter 2022 internships.",
   aboutParaThree:
