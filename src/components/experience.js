@@ -5,7 +5,7 @@ import data from "../data.js"
 
 const individual = (d) => {
   if (d.b){
-    const w=d.location=="North York, Ontario"?"100%":"200px"
+    const w=d.location=="North York, Ontario"?"100%":"35%"
     return (<Card>
       <Card.Body>
       <img src={d.logo} style={{display:"block","margin-left":"auto","margin-right":"auto","margin-bottom":"25px",width:w}}/>
@@ -24,7 +24,7 @@ const individual = (d) => {
   } else {
     return (<Card>
       <Card.Body>
-      <img src={d.logo} style={{display:"block","margin-left":"auto","margin-right":"auto","margin-bottom":"25px",width:"200px"}}/>
+      <img src={d.logo} style={{display:"block","margin-left":"auto","margin-right":"auto","margin-bottom":"25px",width:"35%"}}/>
       <Card.Title>
         {d.title}
       </Card.Title>
