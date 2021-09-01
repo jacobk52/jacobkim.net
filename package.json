@@ -17,6 +17,7 @@
     "gatsby-transformer-sharp": "^2.6.0",
     "gh-pages": "^3.2.3",
     "node-sass": "^4.0.0",
+    "npm": "^7.21.1",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
     "react-bootstrap": "^1.6.1",
