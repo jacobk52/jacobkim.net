@@ -38,15 +38,15 @@ export default {
   //   End About Section ---------------------
   experience:[
     {
-      title:"Amazon - Incoming Software Development Engineer Intern",
+      title:"Amazon - Software Development Engineer",
       date:"Sept. 2021 - Dec. 2021",
       location:"Vancouver, British Columbia",
       team:"AWS (Step Functions Team)",
-      summary:"Working on the AWS Step Functions service to improve AWS workflows.",
+      summary:"Developing core functionalities of the AWS Step Functions service to improve AWS workflows.",
       logo:amazonLogo
     },
     {
-    title:"NVIDIA - Software Engineer Intern",
+    title:"NVIDIA - Software Engineer",
     date:"Jan. 2021 - Apr. 2021",
     location:"Santa Clara, California",
     team:"Metrics Infrastructure Team",
@@ -60,7 +60,7 @@ export default {
     logo:nvidiaLogo
   },
   {
-    title:"Uptake - Backend Developer Intern",
+    title:"Uptake - Backend Developer",
     date:"June 2020 - Aug. 2020",
     location:"Toronto, Ontario",
     team:"Backend Services Team",
@@ -73,7 +73,7 @@ export default {
     logo:uptakeLogo
   },
   {
-    title:"Square Enix Montreal - Machine Learning Developer Intern",
+    title:"Square Enix Montreal - Machine Learning Developer",
     date:"Sept. 2019 - Dec. 2019",
     location:"Montreal, Quebec",
     team:"Machine Learning Team",
@@ -86,7 +86,7 @@ export default {
     logo:squareenixmontrealLogo
   },
   {
-    title:"Environment And Climate Change Canada - Full Stack Developer Intern",
+    title:"Environment And Climate Change Canada - Full Stack Developer",
     date:"May 2018 - Dec. 2018",
     location:"North York, Ontario",
     team:"Web Applications Team",
