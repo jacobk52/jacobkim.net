@@ -27,7 +27,7 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "Hi, I'm a 4th year (senior) Computer Science student at the University of Waterloo, expected to graduate in April 2022. I'm an incoming Software Development Engineer Intern at Amazon (AWS) on the AWS Step Functions team for the Fall 2021 term (Sept 2021 - Dec 2021). Previously, I've completed 5 software engineering internships, including my most recent internship at NVIDIA.",
+    "Hi, I'm a 4th year (senior) Computer Science student at the University of Waterloo, expected to graduate in April 2022. I'm a Software Development Engineer Intern at Amazon (AWS) on the AWS Step Functions team for the Fall 2021 term (Sept 2021 - Dec 2021). Previously, I've completed 5 software engineering internships, including my most recent internship at NVIDIA.",
   aboutParaTwo:
     "I'm currently looking for 2022 new grad opportunities and/or Winter 2022 internships.",
   aboutParaThree:
@@ -93,7 +93,7 @@ export default {
     summary:"At Environment and Climate Change Canada, I was on the Web Applications Team where I designed and developed an ERP web application used by over 50 mining companies in Canada.",
     b:[
       "Led the fullstack development of a cloud-based ERP web application, used by 50+ mining companies",
-      "Designed and architected the relational data model in SQL used to represent complex environmental data",
+      "Designed the relational data model in SQL and developed REST APIs to handle CRUD operations",
       "Created multiple secure and responsive web forms to collect 350+ environmental reports/year"
     ],
     logo:environmentandclimatechangecanadaLogo
