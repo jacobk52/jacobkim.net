@@ -29,7 +29,7 @@ export default {
   aboutParaOne:
     "Hi, I'm a 4th year (senior) Computer Science student at the University of Waterloo, expected to graduate in April 2022. I'm a Software Development Engineer Intern at Amazon (AWS) on the AWS Step Functions team for the Fall 2021 term (Sept 2021 - Dec 2021). Previously, I've completed 5 software engineering internships, including my most recent internship at NVIDIA.",
   aboutParaTwo:
-    "I'm currently looking for 2022 new grad opportunities and/or Winter 2022 internships.",
+    "I'm currently looking for software engineering 2022 new grad opportunities.",
   aboutParaThree:
     "If you have any questions, or would like to get in contact, please get in touch!",
   aboutImage:
