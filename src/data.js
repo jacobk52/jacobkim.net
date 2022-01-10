@@ -21,15 +21,15 @@ export default {
 
   //   Header Paragraph
   headerParagraph:
-    "Currently seeking 2022 Software Engineering New Grad opportunities",
+    "Interested in fullstack development, artificial intelligence, machine learning.",
 
   // End Header Details -----------------------
 
   // About Secton --------------
   aboutParaOne:
-    "Hi, I'm a 4th year (senior) Computer Science student at the University of Waterloo, expected to graduate in April 2022. I'm a Software Development Engineer Intern at Amazon (AWS) on the AWS Step Functions team for the Fall 2021 term (Sept 2021 - Dec 2021). Previously, I've completed 5 software engineering internships, including my most recent internship at NVIDIA.",
+    "Hi, I'm a 4th year (senior) Computer Science student at the University of Waterloo, expected to graduate in April 2022.",
   aboutParaTwo:
-    "I'm currently looking for software engineering 2022 new grad opportunities.",
+    "I have 6 previous software engineering internship experiences.",
   aboutParaThree:
     "If you have any questions, or would like to get in contact, please get in touch!",
   aboutImage:
@@ -42,7 +42,7 @@ export default {
       date:"Sept. 2021 - Dec. 2021",
       location:"Vancouver, British Columbia",
       team:"AWS (Step Functions Team)",
-      summary:"Developing core functionalities of the AWS Step Functions service to improve AWS workflows.",
+      summary:"Developed core functionalities of the AWS Step Functions service to improve AWS workflows.",
       logo:amazonLogo
     },
     {
